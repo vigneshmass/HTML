@@ -6,7 +6,7 @@
 }
 body{
     background-size: 100%;
-    background-color:blue;
+  
 }
 .container{
     top:100%;
@@ -22,14 +22,14 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   border:none;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button:hover{
     background-image:url(be.jpg);
@@ -46,14 +46,14 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family:regular;
   margin-top:50px;
   border:none;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button1:hover{
     background-image:url();
@@ -69,15 +69,15 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   border:none;
   width:20%;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button2:hover{
     background-image:url(be2.jpg);
@@ -93,15 +93,15 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   border:none;
   width:20%;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button3:hover{
     background-image:url(be3.jpg);
@@ -117,15 +117,15 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   width:20%;
   border:none;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button4:hover{
     background-image:url(be4.jpg);
@@ -141,15 +141,15 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   border:none;
   outline:none;
   width:20%;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button5:hover{
     background-image:url(be6.jpg);
@@ -165,15 +165,15 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   width:20%;
   border:none;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button6:hover{
     background-image:url(be7.jpg);
@@ -189,15 +189,15 @@ body{
   top:-5.5%;
   text-align: top;
   font-size: 180%;
-  font-family: Monotype Corsiva;
+  font-family: regular;
   margin-top:50px;
   border:none;
   width:20%;
   outline:none;
   margin-left:40px;
-  color:white;
+  color:black;
   transition:3s;
-  border-radius:10px;
+  border-radius:px;
 }
 .button7:hover{
     background-image:url(be8.jpg);
